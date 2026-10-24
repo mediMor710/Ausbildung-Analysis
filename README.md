@@ -1,4 +1,4 @@
-# 🇩🇪 Ausbildung Insights — NLP & Data Analysis
+# 🇩🇪 Ausbildung(vocational training) Insights — NLP & Data Analysis
 
 An end-to-end data analysis project exploring student opinions about Ausbildung programs and companies in Germany using **web scraping, Natural Language Processing (NLP), sentiment analysis, topic modeling, and interactive data visualization**.
 
